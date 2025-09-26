@@ -22,3 +22,18 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Folder IDE
+.vscode/
+.idea/
+
+# Node.js / package
+node_modules/
+
+# File environment / rahasia
+.env
+config.json
+
+# Build / output
+dist/
+build/
